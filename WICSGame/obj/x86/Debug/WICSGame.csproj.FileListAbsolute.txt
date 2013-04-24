@@ -1,0 +1,26 @@
+C:\Users\Phillip\AppData\Local\Temporary Projects\WICSGame\bin\Debug\WICSGame.exe
+C:\Users\Phillip\AppData\Local\Temporary Projects\WICSGame\bin\Debug\WICSGame.pdb
+C:\Users\Phillip\AppData\Local\Temporary Projects\WICSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phillip\AppData\Local\Temporary Projects\WICSGame\obj\x86\Debug\WICSGame.Form1.resources
+C:\Users\Phillip\AppData\Local\Temporary Projects\WICSGame\obj\x86\Debug\WICSGame.Properties.Resources.resources
+C:\Users\Phillip\AppData\Local\Temporary Projects\WICSGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Phillip\AppData\Local\Temporary Projects\WICSGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Phillip\AppData\Local\Temporary Projects\WICSGame\obj\x86\Debug\WICSGame.exe
+C:\Users\Phillip\AppData\Local\Temporary Projects\WICSGame\obj\x86\Debug\WICSGame.pdb
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.exe
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.pdb
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\bin\Debug\WICSGame.exe
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\bin\Debug\WICSGame.pdb
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.Form1.resources
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.Properties.Resources.resources
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.mainmenu.resources
+C:\Users\Phillip\documents\visual studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.beginner.resources
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.winner.resources
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.advanced.resources
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.intro.resources
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.HighScores.resources
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.info.resources
+C:\Users\Phillip\Documents\Visual Studio 2010\Projects\WICSGame\WICSGame\obj\x86\Debug\WICSGame.second.resources

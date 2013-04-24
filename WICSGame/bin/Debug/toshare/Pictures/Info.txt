@@ -1,0 +1,35 @@
+
+-------------------------------------------------------------------------------------
+Pepper Sweeper
+Version 1.0
+Microsoft Windows
+Copyright (c) Team Why Do We Need A Name. All rights reserved.
+
+Game developed for OSGCC.
+Pepper Sweeper is a deceptively simple test of memory and reasoning--and is based off of
+one of the most popular Windows games of all time. It is so simple that any gastronome
+can figure it out.
+
+The object?
+Find the empty squares while avoiding the spicy peppers. The faster you clear the 
+board, the better your score.
+
+The board
+This Game has three standard boards to choose from, each progressively more difficult.
+- Beginner: 81 tiles, 10 peppers
+- Intermediate: 256 tiles, 40 peppers
+- Expert: 480 tiles, 99 peppers
+
+Rules:
+- Discover a spicy pepper, and the game ends.
+- Discover an empty square, and you keep playing.
+- Discover a number, and it tells you how many peppers lay hidden in the 8 surrounding
+squares.
+
+Study the patterns..
+Explore the unexplored..
+And watch out for the spicy peppers.
+
+Created by:
+Phillip Faust
+Kathryn Lavelle
